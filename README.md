@@ -24,6 +24,10 @@ Adicione labels contendo o nível de experiência desejada e a forma de apresent
 
 ## Temas passados
 
+- [x] 09/02/2017 - **9th PHPSC InCompany** - Taller
+  - Functional Programming with PHP7 - Sérgio Siqueira
+  - Explorando Event Pattern e Command Pattern em aplicações PHP - Domingos Teruel
+
 - [x] 08/10/2016 - **8th PHPSC InCompany** - InPhonex LLC.
   - PHP: Gere valor para sua carreira - Thiago Alves Goulart 
   - WebSocket com PHP - Leonardo Rifeli 
