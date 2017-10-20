@@ -98,4 +98,4 @@ pessoas diretamente:
 * [@mingomax](https://github.com/mingomax)
 * [@mrprompt](https://github.com/mrprompt)
 * [@sergiors](https://github.com/sergiors)
-* [@cassiosantos](https://github.com/cassiosantos
+* [@cassiosantos](https://github.com/cassiosantos)
