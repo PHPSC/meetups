@@ -22,6 +22,14 @@ Exemplo: [DevOps] Integração Contínua com PHPCI
 Adicione labels contendo o nível de experiência desejada e a forma de apresentação: palestra, mini-curso e etc.
 
 
+## Próximo
+
+- [ ] 11/11/2017 - **10th PHPSC InCompany** - DOT
+  - Testes Automatizados com Codeception - Leonardo Cidral
+  - Drupal 8: Overview de Gestão de Dependencias e como manter sua sanidade em ordem - Domingos Teruel
+  - Utilizando Domain Driven Design com PHP - Luiz Nunes
+  - CI & CD com Bitbucket Pipelines - Thiago Paes
+
 ## Temas passados
 
 - [x] 09/02/2017 - **9th PHPSC InCompany** - Taller
@@ -84,8 +92,10 @@ Os meetups não tem um lugar fixo, então, qualquer empresa, faculdade etc; pode
 Caso tenha interesse em ajudar-nos, seja com coffee-break ou espaço para o próximo meetup, por favor, abra uma *issue*!
 
 ## Dúvidas?
-Você pode abrir uma *issue* ou contatar as seguintes pessoas diretamente:
+Você pode abrir uma *issue*, acessar nosso [Slack](https://phpsc-slackin.herokuapp.com/) ou contatar as seguintes 
+pessoas diretamente:
 
 * [@mingomax](https://github.com/mingomax)
 * [@mrprompt](https://github.com/mrprompt)
 * [@sergiors](https://github.com/sergiors)
+* [@cassiosantos](https://github.com/cassiosantos
