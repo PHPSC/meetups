@@ -23,14 +23,18 @@ Adicione labels contendo o nível de experiência desejada e a forma de apresent
 
 
 ## Próximo
+- [ ] 17/02/2018 - **11th PHPSC InCompany** - [SocialBase](https://github.com/socialbase)
+  - Como o code review pode fazer bem para sua equipe - Vinícius Alonso
+  - Introdução a CQRS e Event Sourcing - Guilherme Augusto Henschel
+  - Shark Bowl - https://github.com/PHPSC/shark-bowl
+  
+## Temas passados
 
-- [ ] 11/11/2017 - **10th PHPSC InCompany** - DOT
+- [x] 11/11/2017 - **10th PHPSC InCompany** - DOT
   - Testes Automatizados com Codeception - Leonardo Cidral
   - Drupal 8: Overview de Gestão de Dependencias e como manter sua sanidade em ordem - Domingos Teruel
   - Utilizando Domain Driven Design com PHP - Luiz Nunes
   - CI & CD com Bitbucket Pipelines - Thiago Paes
-
-## Temas passados
 
 - [x] 09/02/2017 - **9th PHPSC InCompany** - Taller
   - Functional Programming with PHP7 - Sérgio Siqueira
