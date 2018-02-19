@@ -24,7 +24,11 @@ Adicione labels contendo o nível de experiência desejada e a forma de apresent
 
 ## Próximo
 
-- [ ] 11/11/2017 - **10th PHPSC InCompany** - DOT
+- [x] 17/02/2018 - **11th PHPSC Incompany** - Socialbase
+  - Como o code review pode fazer bem para sua equipe - Vinícius Alonso
+  - Introdução a Event Sourcing e CQRS - Guilherme Augusto Henschel
+
+- [x] 11/11/2017 - **10th PHPSC InCompany** - DOT
   - Testes Automatizados com Codeception - Leonardo Cidral
   - Drupal 8: Overview de Gestão de Dependencias e como manter sua sanidade em ordem - Domingos Teruel
   - Utilizando Domain Driven Design com PHP - Luiz Nunes
