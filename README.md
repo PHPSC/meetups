@@ -27,6 +27,17 @@ Adicione labels contendo o nível de experiência desejada e a forma de apresent
 - A definir
   
 ## Temas passados
+- [x] 17/02/2018 - **14th PHPSC InCompany** - [Involves](https://github.com/involves)
+  - Criando assinaturas de email personalizadas com Laravel e APIs Google.
+  - Q&A sobre Experiência de Trabalho na Alemanha - Jean Carlo Machado
+
+- [x] 17/02/2018 - **13th PHPSC InCompany** - [ArcTouch](https://github.com/ArcTouch)
+  - Decoupled Drupal with GatsbyJS - 
+  - Live coding: GraphQL + Eloquent, direto ao ponto e sem dependency hell! - Doug Godinho
+
+- [x] 17/02/2018 - **12th PHPSC InCompany** - [Univali](https://univali.br)
+  - Páginas estáticas com Github Pages - Thiago Paes
+  - PHP-ML - Cassio Santos
 
 - [x] 17/02/2018 - **11th PHPSC InCompany** - [SocialBase](https://github.com/socialbase)
   - Como o code review pode fazer bem para sua equipe - Vinícius Alonso
